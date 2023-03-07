@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(60, 113, 96);
+    font-family: Tahoma, sans-serif;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.first {
+    margin: 5%;
+    background-color: rgb(236, 232, 238);
+    width: fit-content;
+    padding: 2%;
+    border-radius: 2%;
+    text-align: center;
+    white-space:nowrap;
+    overflow: hidden;
+    display: block;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-right: 5%;
+    
+}
+
+a {
+    color: rgb(113, 60, 77);
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    color: rgb(123, 89, 100);
+}
+
+a:hover {
+    color: rgb(90, 48, 62);
+}
+
+body {
+    background-color: rgb(232, 238, 236)
+}
